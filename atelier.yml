@@ -1,0 +1,28 @@
+username: nftmindzone
+theme: minimal
+name: lucifer
+tagline: Movie tracker apps, built on TMDB
+about:
+  - ReelLog: a Next.js + SQLite movie tracker
+  - TMDB search, watchlists, ratings, series tracking
+  - React + Vite + Supabase for the small stuff
+stack:
+  - typescript
+  - javascript
+  - react
+  - nextjs
+  - tailwind
+  - sqlite
+socials:
+  github: nftmindzone
+repos:
+  - cursor
+  - imdb
+sections:
+  - header
+  - socials
+  - stats
+  - activity
+  - repos
+  - stack
+  - footer
