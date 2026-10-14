@@ -1,6 +1,6 @@
 username: nftmindzone
 theme: minimal
-name: lucifer
+name:  nftmindzone
 tagline: Movie tracker apps, built on TMDB
 about:
   - ReelLog: a Next.js + SQLite movie tracker
