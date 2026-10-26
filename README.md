@@ -12,7 +12,7 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/languages-dark.dae0f574.svg"/><img src="./atelier/languages.e2dd04f4.svg" width="49%" alt="Top languages"/></picture>
 </p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.44c0162e.svg"/><img src="./atelier/activity.e2ff3ecb.svg" width="100%" alt="Contribution activity"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.db152a9a.svg"/><img src="./atelier/activity.55c9fff3.svg" width="100%" alt="Contribution activity"/></picture></p>
 
 <p align="center">
   <a href="https://github.com/nftmindzone/cursor"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-1-dark.766df4ac.svg"/><img src="./atelier/repo-1.86ed8d1e.svg" width="49%" alt="cursor"/></picture></a>
@@ -21,6 +21,6 @@
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/stack-dark.4e3edf79.svg"/><img src="./atelier/stack.87a29aa7.svg" width="100%" alt="Tech stack"/></picture></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/footer-dark.320c1af2.svg"/><img src="./atelier/footer.7bd615a4.svg" width="100%" alt="Footer"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/footer-dark.7ca6e6b9.svg"/><img src="./atelier/footer.1e8fd6a7.svg" width="100%" alt="Footer"/></picture></p>
 
 <!-- readme-atelier:end -->
